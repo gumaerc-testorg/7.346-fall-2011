@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the short weekly assignments, the
+  midterm written assignment, and the oral presentation assignment of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
