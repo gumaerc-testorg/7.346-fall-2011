@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings for each week of the course,
+  and includes links to lecture summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7a5629c1-06e2-1834-6eda-d08b673e0a31
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction and Course Overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Introduction)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#Introduction" %}}
 
 
 {{< tdclose >}}
@@ -47,14 +52,14 @@ No readings
 
 ER Quality Control and Degradation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#ER_Quality)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#ER_Quality" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Werner, E. D., J. L. Brodsky, et al. "Proteasome-Dependent Endoplasmic Reticulum Associated Protein Degradation: An Unconventional Route to a Familiar Fate." _Proc Natl Acad Sci USA_ 93 (1996): 13797–801. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.pnas.org/content/93/24/13797.full.pdf))
+Werner, E. D., J. L. Brodsky, et al. "Proteasome-Dependent Endoplasmic Reticulum Associated Protein Degradation: An Unconventional Route to a Familiar Fate." _Proc Natl Acad Sci USA_ 93 (1996): 13797–801. ([PDF](http://www.pnas.org/content/93/24/13797.full.pdf))
 
 Jarosch, E., C. Taxis, et al. "[Protein Dislocation from the ER Requires Polyubiquitination and the AAA-ATPase Cdc48](http://www.nature.com/ncb/journal/v4/n2/abs/ncb746.html)." _Nature Cell Biology_ 4 (2002): 134–9.
 
@@ -71,16 +76,16 @@ Jarosch, E., C. Taxis, et al. "[Protein Dislocation from the ER Requires Polyubi
 
 Discovery of Ubiquitin as a Tag for Proteasomal Degradation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Discovery)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#Discovery" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Ciechanover, A., S. Elias, et al. "Characterization of the Heat-Stable Polypeptide of the ATP-Dependent Proteolytic System from Reticulocytes." _Journal of Biological Chemistry_ 255, no. 16 (1980): 7525–8. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://www.jbc.org/content/255/16/7525.full.pdf))
+Ciechanover, A., S. Elias, et al. "Characterization of the Heat-Stable Polypeptide of the ATP-Dependent Proteolytic System from Reticulocytes." _Journal of Biological Chemistry_ 255, no. 16 (1980): 7525–8. ([PDF - 1.4MB](http://www.jbc.org/content/255/16/7525.full.pdf))
 
-Wilkinson, K. D., M. K. Urban, et al. "Ubiquitin is the ATP-Dependent Proteolysis Factor I of Rabbit Reticulocytes". _Journal of Biological Chemistry_ 255, no. 16 (1980): 7529–32. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.jbc.org/content/255/16/7529.full.pdf))
+Wilkinson, K. D., M. K. Urban, et al. "Ubiquitin is the ATP-Dependent Proteolysis Factor I of Rabbit Reticulocytes". _Journal of Biological Chemistry_ 255, no. 16 (1980): 7529–32. ([PDF](http://www.jbc.org/content/255/16/7529.full.pdf))
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Wilkinson, K. D., M. K. Urban, et al. "Ubiquitin is the ATP-Dependent Proteolysi
 
 The Ubiquitin Conjugation Cascade
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_Ubiquitin)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#The_Ubiquitin" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Ciechanover, A., D. Finley, et al. "[Ubiquitin Dependence of Selective Protein D
 
 Biology Seminar
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Biology)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#Biology" %}}
 
 
 {{< tdclose >}}
@@ -137,7 +142,7 @@ No readings
 
 Biochemical Approaches to Measure Protein Dislocation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Biochemical)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#Biochemical" %}}
 
 
 {{< tdclose >}}
@@ -146,7 +151,7 @@ Biochemical Approaches to Measure Protein Dislocation
 
 Wahlman, J., G. N. DeMartino, et al. "[Real-Time Fluorescence Detection of ERAD Substrate Retrotranslocation in a Mammalian in Vitro System](http://www.cell.com/abstract/S0092-8674(07)00515-6)." _Cell_ 129, no. 5 (2007): 943–55.
 
-Ikeda, Y., G. N. Demartino, et al. "Regulated Endoplasmic Reticulum-Associated Degradation of a Polytopic Protein: P97 Recruits Proteasomes to Insig-1 before Extraction from Membranes." _Journal of Biological Chemistry_ 284, no. 50 (2009): 34889–900. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9MB](http://www.jbc.org/content/284/50/34889.full.pdf))
+Ikeda, Y., G. N. Demartino, et al. "Regulated Endoplasmic Reticulum-Associated Degradation of a Polytopic Protein: P97 Recruits Proteasomes to Insig-1 before Extraction from Membranes." _Journal of Biological Chemistry_ 284, no. 50 (2009): 34889–900. ([PDF - 2.9MB](http://www.jbc.org/content/284/50/34889.full.pdf))
 
 
 {{< tdclose >}}
@@ -161,7 +166,7 @@ Ikeda, Y., G. N. Demartino, et al. "Regulated Endoplasmic Reticulum-Associated D
 
 The Putative Dislocon: Lessons from Yeast and Mammalian Systems
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_Putative)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#The_Putative" %}}
 
 
 {{< tdclose >}}
@@ -185,7 +190,7 @@ Ye, Y., Y. Shibata, et al. "[A Membrane Protein Complex Mediates Retro-Transloca
 
 Substrate Recognition: The Glycan Destruction Signal for ERAD
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Substrate)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#Substrate" %}}
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ Quan, E. M., Y. Kamiya, et al. "[Defining the Glycan Destruction Signal for Endo
 
 Cytosolic Regulation of Misfolded/Mislocalized Protein Degradation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Cytosolic)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#Cytosolic" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +238,7 @@ Wang, Q., Y. Liu, et al. "[A Ubiquitin Ligase-Associated Chaperone Holdase maint
 
 Viral Avoidance and Exploitation of the Ubiquitin Proteasome System
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Viral)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#Viral" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ Wiertz, E. J., T. R. Jones, et al. "[The Human Cytomegalovirus US11 Gene Product
 
 Toxin Invasion through the ERAD Machinery
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Toxin)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#Toxin" %}}
 
 
 {{< tdclose >}}
@@ -266,7 +271,7 @@ Toxin Invasion through the ERAD Machinery
 
 Tsai, B., C. Rodighiero, et al. "[Protein Disulfide Isomerase Acts as a Redox-Dependent Chaperone to Unfold Cholera Toxin](http://www.cell.com/abstract/S0092-8674(01)00289-6)." _Cell_ 104, no. 6 (2001): 937–48.
 
-Bernardi, K. M., J. M. Williams, et al. "The E3 Ubiquitin Ligases Hrd1 and gp78 Bind to and Promote Cholera Toxin Retro-Translocation." _Molecular Biology Cell_ 21, no. 1 (2010): 140–51. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.3MB](http://www.molbiolcell.org/content/early/2009/10/28/mbc.E09-07-0586.full.pdf))
+Bernardi, K. M., J. M. Williams, et al. "The E3 Ubiquitin Ligases Hrd1 and gp78 Bind to and Promote Cholera Toxin Retro-Translocation." _Molecular Biology Cell_ 21, no. 1 (2010): 140–51. ([PDF - 3.3MB](http://www.molbiolcell.org/content/early/2009/10/28/mbc.E09-07-0586.full.pdf))
 
 
 {{< tdclose >}}
@@ -281,7 +286,7 @@ Bernardi, K. M., J. M. Williams, et al. "The E3 Ubiquitin Ligases Hrd1 and gp78 
 
 Student Oral Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Student)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#Student" %}}
 
 
 {{< tdclose >}}
@@ -299,7 +304,7 @@ No readings
 
 ER-associated Degradation in Disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#ER-associated)
+{{% resource_link 3ca1ef4e-1f8d-044f-1301-953c90c4c634 "See the Lecture Summary" "#ER-associated" %}}
 
 
 {{< tdclose >}}
